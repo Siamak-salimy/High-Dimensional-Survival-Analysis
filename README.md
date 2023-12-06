@@ -7,3 +7,4 @@ vations in machine learning approaches for survival prediction.We cover the stat
 extensions to more complex settings, where competing events are observed.
 We exemplify these methods with applications to the Boston Lung Cancer Survival Cohort study, one of the largest cancer epidemiology cohorts
 investigating the complex mechanisms of lung cancer.
+https://doi.org/10.1146/annurev-statistics-032921-022127
